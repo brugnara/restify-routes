@@ -1,6 +1,7 @@
 {
   "name": "restify-routes",
-  "version": "0.1.0",
+  "description": "Keep your routes organized in files",
+  "version": "0.1.1",
   "author": {
     "name": "Daniele Brugnara",
     "url": "brugnara.me",
