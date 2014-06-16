@@ -1,7 +1,7 @@
 {
   "name": "restify-routes",
   "description": "Keep your routes organized in files",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Daniele Brugnara",
     "url": "brugnara.me",
@@ -9,5 +9,19 @@
   },
   "dependencies": {
     "require-all": "0.0.8"
-  }
+  },
+  "keywords": [
+    "restify",
+    "routes",
+    "injector",
+    "manager"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brugnara/restify-routes"
+  },
+  "bugs": {
+    "url": "https://github.com/brugnara/restify-routes/issues"
+  },
+  "homepage": "https://github.com/brugnara/restify-routes"
 }
