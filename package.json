@@ -1,0 +1,12 @@
+{
+  "name": "restify-routes",
+  "version": "0.1.0",
+  "author": {
+    "name": "Daniele Brugnara",
+    "url": "brugnara.me",
+    "email": "daniele@brugnara.me"
+  },
+  "dependencies": {
+    "require-all": "0.0.8"
+  }
+}
